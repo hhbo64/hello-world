@@ -3,9 +3,9 @@
 
 ###1
 Hello world projects are soooo much fun :)
-*XXXXX
-*XXXXX
-*XXXXX
+* XXXXX
+* XXXXX
+* XXXXX
 
 ###2
 This is cool.  Let's get coding!
